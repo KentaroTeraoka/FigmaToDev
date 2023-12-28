@@ -46,3 +46,6 @@ const submitForm = () => {
   console.log(contactForm)
 }
 </script>
+
+<style lang="scss">
+</style>
